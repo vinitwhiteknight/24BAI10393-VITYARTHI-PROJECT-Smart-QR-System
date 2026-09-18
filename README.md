@@ -1,4 +1,3 @@
-# VITYARTHI-PROJECT-Smart-QR-System
 # Smart QR & Barcode Detection and Result Management System
 
 This is a Python command-line project that I made for detecting and reading QR codes and barcodes from image files.
